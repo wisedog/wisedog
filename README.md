@@ -2,7 +2,6 @@
 
 🔭 저는 지금 
  - 수출입 물류 플랫폼 스타트업 셀러노트에서 CTO로 일하고 있습니다.
- - 전공은 백엔드지만 AWS Devops도 하고 리액트도 땜빵으로 하고 있습니다
  - 현재는 Node.js/Typescript를 주로 사용하고 있습니다
  
 🤔 저는 과거에
@@ -19,18 +18,3 @@
 
 📫 연락은
  - kim.jongha@gmail.com
-
-<!--
-**wisedog/wisedog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
